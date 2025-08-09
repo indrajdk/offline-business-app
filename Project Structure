@@ -1,0 +1,24 @@
+OfflineBusinessApp/
+ ├── app/
+ │   ├── src/
+ │   │   ├── main/
+ │   │   │   ├── AndroidManifest.xml
+ │   │   │   ├── java/
+ │   │   │   │   └── com/example/offlinebusinessapp/
+ │   │   │   │        ├── MainActivity.java
+ │   │   │   │        ├── AddEntryActivity.java
+ │   │   │   │        ├── DatabaseHelper.java
+ │   │   │   │        ├── Entry.java
+ │   │   │   │        └── EntryAdapter.java
+ │   │   │   └── res/
+ │   │   │        ├── layout/
+ │   │   │        │    ├── activity_main.xml
+ │   │   │        │    ├── activity_add_entry.xml
+ │   │   │        │    └── list_item.xml
+ │   │   │        ├── values/
+ │   │   │        │    ├── colors.xml
+ │   │   │        │    ├── strings.xml
+ │   │   │        │    └── styles.xml
+ │   ├── build.gradle
+ ├── settings.gradle
+ └── build.gradle
